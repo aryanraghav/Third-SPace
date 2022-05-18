@@ -1,0 +1,112 @@
+.button{
+    position: absolute;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.playA,.playB{
+    margin-top: 63px;
+    margin-left: 30px;
+}
+.hidden{
+    display: none;
+}
+h2{
+    z-index:2;
+    text-align: center;
+    margin-left:39%;
+    font-size:38;
+}
+ .imgback1{
+    background:url("/images/Garden.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+} 
+.imgback2{
+    background:url("/images/Wind.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback3{
+    background:url("/images/Rain.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback4{
+    background:url("/images/Seaside.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback5{
+    background:url("/images/WaterStream.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback6{
+    background:url("/images/Storm.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback7{
+    background:url("/images/SummerNight.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback8{
+    background:url("/images/Rockshore.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+.imgback9{
+    background:url("/images/AtmosphereInForest.jpg");
+    width:400px;
+    height:220px;
+    position: absolute;
+    right: 0px;
+    bottom:0px;
+    opacity:0.8;
+    z-index:1;
+}
+
+
+          

@@ -1,0 +1,35 @@
+#working .working {
+	flex-direction: column-reverse;
+	text-align: center;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 100px 20px;
+}
+#working .col-left {
+	width: 250px;
+	height: 360px;
+}
+#working .col-right {
+	width: 100%;
+}
+#working .col-right h2 {
+	font-size: 1.8rem;
+	font-weight: 500;
+	letter-spacing: 0.2rem;
+	margin-bottom: 10px;
+}
+#working .col-right p {
+	margin-bottom: 20px;
+}
+#working .col-right .sign {
+	color: black;
+	margin-bottom: 50px;
+	padding: 10px 20px;
+	font-size: 2rem;
+}
+#working .col-left .working-img {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	border: 10px solid white;
+}

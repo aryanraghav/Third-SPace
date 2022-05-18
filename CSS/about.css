@@ -1,0 +1,5 @@
+body{
+    background-image: radial-gradient(circle at bottom center, rgb(68,68,68) 0%, rgb(68,68,68) 32%,transparent 32%, transparent 40%,transparent 40%, transparent 100%),
+    radial-gradient(circle at center center, rgb(68,68,68) 0%, rgb(68,68,68) 23%,transparent 23%, transparent 36%,transparent 36%, transparent 100%),
+    linear-gradient(90deg, rgb(58,58,58),rgb(58,58,58)); background-size: 73px 73px;
+}
